@@ -1,0 +1,8 @@
+backtrader
+backtrader[plotting]
+matplotlib == 3.4.3
+pandas
+pandas_datareader
+requests_cache
+talib
+ccxt
