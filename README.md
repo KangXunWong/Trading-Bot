@@ -38,13 +38,3 @@ For example, to change the values of pfast and pslow in MACross, you would do:
 ## License
 
 The code is released under the MIT license.
-
-### To develop
-
-1. Only long the market (buy only orders when there are no positions)
-2. Only have spot orders (can't have margin)
-3. How to adjust the risk? (AKA how much quantity to buy and sell, depending on the volume for the day)
-
-### To enhance
-
-1. Can we use ML to predict the orders to place the next day?
